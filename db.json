@@ -4,7 +4,7 @@
       "id": 1,
       "name": "Woody",
       "image": "http://www.pngmart.com/files/3/Toy-Story-Woody-PNG-Photos.png",
-      "likes": 5
+      "likes": 6
     },
     {
       "id": 2,
@@ -47,6 +47,27 @@
       "name": "Little Green Men",
       "image": "http://www.pngmart.com/files/3/Toy-Story-Alien-PNG-File.png",
       "likes": 1
+    },
+    {
+      "id": 9
+    },
+    {
+      "name": "Bob Builder",
+      "image": "https://www.google.com/url?sa=i&url=https%3A%2F%2Fen.wikipedia.org%2Fwiki%2FBob_the_Builder&psig=AOvVaw0n2SqKp0KbeAtsNK59A3NL&ust=1687312922813000&source=images&cd=vfe&ved=0CBAQjRxqFwoTCOjp6s3g0P8CFQAAAAAdAAAAABAD",
+      "likes": 0,
+      "id": 10
+    },
+    {
+      "name": "Bob Builder",
+      "image": "https://en.wikipedia.org/wiki/Bob_the_Builder",
+      "likes": 0,
+      "id": 11
+    },
+    {
+      "name": "Mario",
+      "image": "https://clipart-library.com/images/8cxraoxdi.jpg",
+      "likes": 0,
+      "id": 12
     }
   ]
 }
